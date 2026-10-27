@@ -45,4 +45,4 @@ O protótipo foi atualizado para a V2 com três ajustes: tarefas sem prazo apare
 **Atenção:** os cinco perfis, métricas, tempos e comentários do relatório/CSV são inteiramente fictícios, conforme simulação solicitada. Não houve sessões com alunos. Não apresente esses valores como coleta empírica; substitua-os por resultados reais caso o docente exija testes com participantes.
 
 
-Integrantes do grupo: Thalles Soares e Sarah Neco. Os dados de avaliação são simulados e não atribuídos a esses integrantes como participantes.
+Thalles Soares e Sarah Neco são identificados como perfis de participantes nesta simulação. Métricas e comentários associados a eles são fictícios, não foram coletados em testes reais e não devem ser apresentados como resultados observados.
