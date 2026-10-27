@@ -39,6 +39,7 @@ Não foram coletados resultados de estudantes. O registro começa vazio.
 O protótipo foi atualizado para a V2 com três ajustes: tarefas sem prazo aparecem no topo da agenda e ganham um atalho em “Meus cursos”; esse atalho limpa filtros anteriores; o rótulo “Período” permanece visível em telas pequenas; a ação de troca de arquivo usa o texto “Substituir arquivo”.
 
 - Relatório: [Relatório da Fase 6 (dados simulados)](Relatorio_Fase6_Testes_Simulados.pdf)
+- Versão editável: [Relatório da Fase 6 em Word](Relatorio_Fase6_Testes_Simulados.docx)
 - Planilha: [Dados simulados por perfil e tarefa](Fase6_Dados_Simulados.csv)
 - Protótipo: [abrir a V2 no Vercel](https://ihc-ava-prototipo-2.vercel.app/#courses)
 
