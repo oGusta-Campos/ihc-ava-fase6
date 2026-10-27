@@ -6,7 +6,7 @@ Repositório público do código: https://github.com/oGusta-Campos/ihc-ava-fase6
 
 ## Protótipo online
 
-[Abrir o protótipo interativo](https://ihc-ava-prototipo.vercel.app/#courses)
+[Abrir o protótipo interativo](https://ihc-ava-prototipo-2.vercel.app/#courses)
 
 Abra o link no navegador para realizar os testes. A sessão fictícia de estudante já está disponível e não exige matrícula ou senha do AVA.
 
@@ -40,6 +40,9 @@ O protótipo foi atualizado para a V2 com três ajustes: tarefas sem prazo apare
 
 - Relatório: [Relatório da Fase 6 (dados simulados)](Relatorio_Fase6_Testes_Simulados.pdf)
 - Planilha: [Dados simulados por perfil e tarefa](Fase6_Dados_Simulados.csv)
-- Protótipo: [abrir a V2 no Vercel](https://ihc-ava-prototipo.vercel.app/#courses)
+- Protótipo: [abrir a V2 no Vercel](https://ihc-ava-prototipo-2.vercel.app/#courses)
 
 **Atenção:** os cinco perfis, métricas, tempos e comentários do relatório/CSV são inteiramente fictícios, conforme simulação solicitada. Não houve sessões com alunos. Não apresente esses valores como coleta empírica; substitua-os por resultados reais caso o docente exija testes com participantes.
+
+
+Integrantes do grupo: Thalles Soares e Sarah Neco. Os dados de avaliação são simulados e não atribuídos a esses integrantes como participantes.
